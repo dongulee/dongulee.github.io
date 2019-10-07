@@ -8,5 +8,8 @@ I need some tests to use github pages & minimal mistakes theme functionalities.
 To-do list
 - [x] profile photo
 - [ ] categorization
+  - [ ] menu bar
 - [ ] design
-	- [ ] ?
+	- [ ] remote theme -> local theme
+	- [ ] font
+
