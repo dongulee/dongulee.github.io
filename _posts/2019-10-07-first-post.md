@@ -6,7 +6,7 @@ categories: test
 I need some tests to use github pages & minimal mistakes theme functionalities.
 
 To-do list
-- [ ] profile photo
+- [x] profile photo
 - [ ] categorization
 - [ ] design
 	- [ ] ?
