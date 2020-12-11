@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts 
 comments: true
 categories: Blogging
 title: "Disqus Test"
